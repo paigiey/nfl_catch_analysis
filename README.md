@@ -26,3 +26,9 @@ The goal of this analysis is to go beyond surface-level stats and evaluate wide 
 - `nflfastR` via `nflverse` (play-by-play data)
 - Player stats (receiving, quarterback, defensive pressure)
 ---
+
+## 📈 Key Insights
+
+- Some receivers (e.g., **C. Brown**, **G. Kittle**) maintain high performance even under pressure.
+- High catch % ≠ high impact – some receivers benefit from easier targets.
+- Adjusted metrics reveal underrated contributors and situational reliability.
